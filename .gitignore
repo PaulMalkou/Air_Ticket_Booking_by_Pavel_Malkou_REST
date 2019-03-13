@@ -1,0 +1,8 @@
+.idea/
+logs/
+lib/
+target/
+*.iml
+tomcat_console.txt
+
+
